@@ -1,0 +1,14 @@
+{
+  "Pizza": {
+    "base": "dough",
+    "toppings": ["cheese", "tomato", "pepperoni"],
+    "sauce": "marinara",
+    "method": "baked"
+  },
+  "Pasta": {
+    "base": "noodles",
+    "toppings": ["parmesan", "meatballs"],
+    "sauce": "alfredo",
+    "method": "boiled"
+  }
+}

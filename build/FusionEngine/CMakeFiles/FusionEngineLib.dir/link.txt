@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFusionEngineLib.a CMakeFiles/FusionEngineLib.dir/FusionEngine.cpp.o
+/usr/bin/ranlib libFusionEngineLib.a

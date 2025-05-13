@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFoodProfileLib.a CMakeFiles/FoodProfileLib.dir/FoodProfile.cpp.o
+/usr/bin/ranlib libFoodProfileLib.a

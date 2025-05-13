@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sm/FusionFeast/build/cmake_install.cmake",
+		"/Users/sm/FusionFeast/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/sm/FusionFeast/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/sm/FusionFeast/build/_deps/googletest-build/googletest/cmake_install.cmake",
+		"/Users/sm/FusionFeast/build/FoodProfile/cmake_install.cmake",
+		"/Users/sm/FusionFeast/build/FusionEngine/cmake_install.cmake",
+		"/Users/sm/FusionFeast/build/Utils/cmake_install.cmake",
+		"/Users/sm/FusionFeast/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,2 @@
+add_library(FoodProfileLib FoodProfile.cpp)
+target_include_directories(FoodProfileLib PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
